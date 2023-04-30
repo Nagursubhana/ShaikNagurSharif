@@ -16,5 +16,5 @@
 
 Python | Java | Selenium | Rest API | Front End Developer | BDD | Cucumber | 
 
-
-📧 # sknagursharif@outlook.com
+## Reach me:
+ - 📧 sknagursharif@outlook.com
