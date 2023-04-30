@@ -9,3 +9,9 @@
 
 :telescope: I really enjoy learning new concepts and technologies.
 
+:man_technologist: Currently working as Systems Engineer at Infosys.
+
+
+### Skills: 
+
+Python | Java | Selenium | Rest API | Front End Developer | BDD | Cucumber | 
