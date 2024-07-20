@@ -14,7 +14,7 @@
 
 ### Skills: 
 
-Python | Java | Selenium | Rest API | Front End Developer | BDD | Cucumber | 
+Python | Java | Selenium | Rest API | Front End Developer | BDD | Cucumber | JavaScript | Typescript |MySQL | PostgreSQL | MongoDB | Playwright | GraphQL | HTML | CSS |
 
 ## Reach me:
  - 📧 sknagursharif@outlook.com
